@@ -1,0 +1,7 @@
+com.ds.randomgenerator.test.app-androidTest-0 C:\AndroidProjects\4\app\build\generated\res\resValues\androidTest\debug
+com.ds.randomgenerator.test.app-updated_navigation_xml-1 C:\AndroidProjects\4\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.ds.randomgenerator.test.app-mergeDebugAndroidTestResources-2 C:\AndroidProjects\4\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ds.randomgenerator.test.app-mergeDebugAndroidTestResources-3 C:\AndroidProjects\4\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ds.randomgenerator.test.app-debugAndroidTest-4 C:\AndroidProjects\4\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.ds.randomgenerator.test.app-tracing-1.2.0-5 C:\Users\Давид\.gradle\caches\8.13\transforms\6447d81579d0fd8c0d7c3b06a8abdc5f\transformed\tracing-1.2.0\res
+com.ds.randomgenerator.test.app-core-1.7.0-6 C:\Users\Давид\.gradle\caches\8.13\transforms\75943d732af78654dcf9716b5001f9a2\transformed\core-1.7.0\res
