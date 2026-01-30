@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Давид\\.gradle\\daemon\\8.13\\com.ds.randomgenerator.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Давид\\.gradle\\daemon\\8.13\\com.ds.randomgenerator.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.ds.randomgenerator.app-mergeDebugResources-3:/layout/widget_random.xml",
+        "source": "com.ds.randomgenerator.app-main-6:/layout/widget_random.xml"
+    },
+    {
+        "merged": "C:\\Users\\Давид\\.gradle\\daemon\\8.13\\com.ds.randomgenerator.app-mergeDebugResources-3:\\layout\\widget_random.xml",
+        "source": "C:\\Users\\Давид\\.gradle\\daemon\\8.13\\com.ds.randomgenerator.app-main-6:\\layout\\widget_random.xml"
+    }
+]
