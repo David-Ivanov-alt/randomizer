@@ -1,0 +1,46 @@
+R_DEF: Internal format may change without notice
+local
+attr? appWidgetInnerRadius
+attr? appWidgetPadding
+attr? appWidgetRadius
+color black
+color grey
+color light_blue_200
+color light_blue_50
+color light_blue_600
+color light_blue_900
+color white
+color white_grey
+dimen widget_margin
+drawable app_widget_background
+drawable app_widget_inner_view_background
+drawable example_appwidget_preview
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id editText1
+id editTextNumber3
+id main
+id textRandom
+id textView1
+id textView2
+id textView7
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string From
+string To
+string add_widget
+string app_name
+string app_widget_description
+string appwidget_text
+style Base.Theme.Рандомайзер
+style Theme.Рандомайзер
+style Theme.Рандомайзер.AppWidgetContainer
+style Theme.Рандомайзер.AppWidgetContainerParent
+style Widget.Рандомайзер.AppWidget.Container
+style Widget.Рандомайзер.AppWidget.InnerView
+styleable AppWidgetAttrs appWidgetPadding appWidgetInnerRadius appWidgetRadius
+xml backup_rules
+xml data_extraction_rules
